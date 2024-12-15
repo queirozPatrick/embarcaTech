@@ -1,0 +1,12 @@
+{"terminal.integrated.defaultProfile.windows": "PowerShell",
+"terminal.integrated.profiles.windows": {
+    "PowerShell": {
+        "path": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "args": [
+            "-NoExit",
+            "& 'C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Auxiliary\\Build\\vcvarsall.bat' amd64"
+        ]
+    }
+}
+
+}
